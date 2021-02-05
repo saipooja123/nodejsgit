@@ -1,0 +1,23 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncdemo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipooja123/new_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saipooja123/new_git/issues"
+  },
+  "homepage": "https://github.com/saipooja123/new_git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
